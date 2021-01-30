@@ -24,3 +24,4 @@ GitHub 홈페이지 실습버전입니다.
     01. 구조 파악
     02. Summary 구조
     03. Section 배경, Summary의 공통 스타일 - 1
+    04. Section 배경, Summary의 공통 스타일 - 2
