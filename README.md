@@ -26,3 +26,4 @@ GitHub 홈페이지 실습버전입니다.
     03. Section 배경, Summary의 공통 스타일 - 1
     04. Section 배경, Summary의 공통 스타일 - 2
     05. Visual - 회원가입 양식 구조
+    06. Visual - 회원가입 양식 스타일 - 1
