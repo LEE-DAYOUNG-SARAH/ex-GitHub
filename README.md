@@ -5,3 +5,4 @@ GitHub 홈페이지 실습버전입니다.
     01. Viewport, IE 랜더링
     02. 오픈그래프와 트위터카드
     03. 파비콘(Favicon)
+    04. Google Fonts
