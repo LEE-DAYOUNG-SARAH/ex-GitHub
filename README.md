@@ -7,3 +7,5 @@ GitHub 홈페이지 실습버전입니다.
     03. 파비콘(Favicon)
     04. Google Fonts
     05. 브라우저 스타일 초기화(Reset)
+2. 공통
+    01. 최상위 요소, BEM
