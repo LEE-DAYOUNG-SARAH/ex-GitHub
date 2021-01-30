@@ -22,3 +22,4 @@ GitHub 홈페이지 실습버전입니다.
     07. 좌우 분할(Float), 요소 정렬(Flex)과 순서(Order) - 2
 4. Visual
     01. 구조 파악
+    02. Summary 구조
