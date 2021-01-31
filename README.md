@@ -30,3 +30,4 @@ GitHub 홈페이지 실습버전입니다.
     07. Visual - 회원가입 양식 스타일 - 2
 5. Feature
     01. Feature - 구조파악
+    02. Feature - 비디오(Youtube) 구조
