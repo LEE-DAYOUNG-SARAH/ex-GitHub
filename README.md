@@ -49,3 +49,4 @@ GitHub 홈페이지 실습버전입니다.
     02. 반응형 - Medium Device - 토글 버튼 - 2
     03. 반응형 - Medium Device - Header 콘텐츠
     04. 반응형 - Medium Device - Header 콘텐츠_1
+    05. 반응형 - Medium Device - 리사이즈 이벤트
