@@ -34,5 +34,6 @@ GitHub 홈페이지 실습버전입니다.
     03. Feature - 개별 정렬(Margin), 16대9 반응형 비디오
     04. Feature - Tiles 구조
     05. Feature - Tiles 반응형 이미지
-    06. Feature - 06. Tiles 4컬럼 스타일(Grid)
-    07. Feature - 07. Tiles 4컬럼 스타일(Float)
+    06. Feature - Tiles 4컬럼 스타일(Grid)
+    07. Feature - Tiles 4컬럼 스타일(Float)
+    08. Where is - 구조 파악, API란
