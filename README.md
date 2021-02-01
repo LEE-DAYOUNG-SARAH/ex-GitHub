@@ -41,3 +41,4 @@ GitHub 홈페이지 실습버전입니다.
     10. Where is - Google 지도 API
     11. Pricing - 구조 파악 및 정의
     12. Pricing - 스타일
+    13. Footer - 구조 파악, 메뉴 링크와 카피라이트
