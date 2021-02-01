@@ -35,3 +35,4 @@ GitHub 홈페이지 실습버전입니다.
     04. Feature - Tiles 구조
     05. Feature - Tiles 반응형 이미지
     06. Feature - 06. Tiles 4컬럼 스타일(Grid)
+    07. Feature - 07. Tiles 4컬럼 스타일(Float)
