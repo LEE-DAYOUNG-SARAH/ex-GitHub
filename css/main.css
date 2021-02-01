@@ -402,6 +402,9 @@ footer .logo:hover svg {
     header .sign-group {
         float: none;
     }
+    header .menu-group {
+        display: block;
+    }
     header .logo {
         padding: 12px 0;
     }
@@ -441,6 +444,9 @@ footer .logo:hover svg {
 
     header .toggle {
         display: none;
+    }
+    header .toggle.on {
+        display: block;
     }
     #toggle-btn {
         background: url(../img/toggle-btn.svg);
