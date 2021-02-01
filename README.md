@@ -43,3 +43,4 @@ GitHub 홈페이지 실습버전입니다.
     12. Pricing - 스타일
     13. Footer - 구조 파악, 메뉴 링크와 카피라이트 
     14. Footer - 메뉴 스타일, 순서가 다른 좌우 분할(Float)
+    15. Footer - SVG 태그와 fill 속성, 중앙 배치(Position)
