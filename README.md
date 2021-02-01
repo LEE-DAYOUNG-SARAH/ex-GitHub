@@ -52,3 +52,4 @@ GitHub 홈페이지 실습버전입니다.
     05. 반응형 - Medium Device - 리사이즈 이벤트
     06. 반응형 - Medium Device - Visual 콘텐츠
     07. 반응형 - Medium Device - Feature, Where is, Pricing, Footer 콘텐츠
+    08. 반응형 - Medium Device - 미디어쿼리 파일 관리
