@@ -46,3 +46,4 @@ GitHub 홈페이지 실습버전입니다.
     15. Footer - SVG 태그와 fill 속성, 중앙 배치(Position)
 6. 반응형
     01. 반응형 - Medium Device - 토글 버튼 - 1
+    02. 반응형 - Medium Device - 토글 버튼 - 2
